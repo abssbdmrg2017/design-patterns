@@ -68,3 +68,5 @@ update: Readme.md
 
 
 .PHONY: update clean
+	test
+	test
